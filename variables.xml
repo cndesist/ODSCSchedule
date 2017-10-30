@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"    "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+]>
+<svg>
+<variableSets  xmlns="&ns_vars;">
+	<variableSet  locked="none" varSetName="binding1">
+		<variables>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable1"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable10"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable11"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable12"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable13"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable14"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable15"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable16"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable17"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable18"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable19"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable2"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable20"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable21"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable22"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable23"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable24"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable25"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable26"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable27"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable28"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable29"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable3"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable30"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable31"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable32"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable33"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable34"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable35"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable36"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable37"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable38"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable39"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable4"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable40"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable41"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable42"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable43"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable44"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable45"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable46"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable47"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable48"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable49"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable5"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable50"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable51"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable52"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable53"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable54"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable55"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable56"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable57"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable58"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable59"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable6"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable7"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable8"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="Variable9"></variable>
+			<variable  category="&ns_flows;" trait="textcontent" varName="xai_9am"></variable>
+		</variables>
+		<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;">
+			<v:sampleDataSet  dataSetName="Data Set 1">
+				<Variable1>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable1>
+				<Variable10>
+					<p>Introduction to Python in Data Science</p>
+				</Variable10>
+				<Variable11>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable11>
+				<Variable12>
+					<p>Introduction to Python in Data Science</p>
+				</Variable12>
+				<Variable13>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable13>
+				<Variable14>
+					<p>Introduction to Python in Data Science</p>
+				</Variable14>
+				<Variable15>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable15>
+				<Variable16>
+					<p>Introduction to Python in Data Science</p>
+				</Variable16>
+				<Variable17>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable17>
+				<Variable18>
+					<p>Introduction to Python in Data Science</p>
+				</Variable18>
+				<Variable19>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable19>
+				<Variable2>
+					<p>Introduction to Python in Data Science</p>
+				</Variable2>
+				<Variable20>
+					<p>Introduction to Python in Data Science</p>
+				</Variable20>
+				<Variable21>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable21>
+				<Variable22>
+					<p>Introduction to Python in Data Science</p>
+				</Variable22>
+				<Variable23>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable23>
+				<Variable24>
+					<p>Introduction to Python in Data Science</p>
+				</Variable24>
+				<Variable25>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable25>
+				<Variable26>
+					<p>Introduction to Python in Data Science</p>
+				</Variable26>
+				<Variable27>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable27>
+				<Variable28>
+					<p>Introduction to Python in Data Science</p>
+				</Variable28>
+				<Variable29>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable29>
+				<Variable3>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable3>
+				<Variable30>
+					<p>Introduction to Python in Data Scie`nce</p>
+				</Variable30>
+				<Variable31>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable31>
+				<Variable32>
+					<p>Introduction to Python in Data Science</p>
+				</Variable32>
+				<Variable33>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable33>
+				<Variable34>
+					<p>Introduction to Python in Data Science</p>
+				</Variable34>
+				<Variable35>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable35>
+				<Variable36>
+					<p>Introduction to Python in Data Science</p>
+				</Variable36>
+				<Variable37>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable37>
+				<Variable38>
+					<p>Introduction to Python in Data Science</p>
+				</Variable38>
+				<Variable39>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable39>
+				<Variable4>
+					<p>Introduction to Python in Data Science</p>
+				</Variable4>
+				<Variable40>
+					<p>Introduction to Python in Data Science</p>
+				</Variable40>
+				<Variable41>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable41>
+				<Variable42>
+					<p>Introduction to Python in Data Science</p>
+				</Variable42>
+				<Variable43>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable43>
+				<Variable44>
+					<p>Introduction to Python in Data Science</p>
+				</Variable44>
+				<Variable45>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable45>
+				<Variable46>
+					<p>Introduction to Python in Data Science</p>
+				</Variable46>
+				<Variable47>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable47>
+				<Variable48>
+					<p>Introduction to Python in Data Science</p>
+				</Variable48>
+				<Variable49>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable49>
+				<Variable5>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable5>
+				<Variable50>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable50>
+				<Variable51>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable51>
+				<Variable52>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable52>
+				<Variable53>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable53>
+				<Variable54>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable54>
+				<Variable55>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable55>
+				<Variable56>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable56>
+				<Variable57>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable57>
+				<Variable58>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable58>
+				<Variable59>
+					<p>Introduction to Python in Data Science to Python in Data Science</p>
+				</Variable59>
+				<Variable6>
+					<p>Introduction to Python in Data Science</p>
+				</Variable6>
+				<Variable7>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable7>
+				<Variable8>
+					<p>Introduction to Python in Data Science</p>
+				</Variable8>
+				<Variable9>
+					<p>Robert Mastrodomenico, PhD</p>
+				</Variable9>
+				<xai_9am>
+					<p>Robert Mastrodomenico, PhD</p>
+				</xai_9am>
+			</v:sampleDataSet>
+		</v:sampleDataSets>
+	</variableSet>
+</variableSets>
+</svg>
